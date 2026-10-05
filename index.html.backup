@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AAIG — Quality Engineering, Technical Rework & Global Representation</title>
+  <meta name="description" content="Prevent production halts with AAIG — rapid containment, resident engineers, and a 200,000 sq.ft. Wixom warehouse to support inspection, rework, and sequencing across India, North America, and Europe.">
+  <meta name="keywords" content="quality engineering, technical rework, inspection services, containment, resident engineer, global representation, automotive quality, manufacturing support, rapid response">
+  
+  <!-- Open Graph / Social -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AAIG — Quality Engineering, Technical Rework & Global Representation">
+  <meta property="og:description" content="Prevent production halts with AAIG — rapid containment, resident engineers, and a 200,000 sq.ft. Wixom warehouse to support inspection, rework, and sequencing across India, North America, and Europe.">
+  <meta property="og:url" content="https://www.aaig-group.com">
+  <meta property="og:site_name" content="AA Infinite Global Alliance">
+  <meta property="og:locale" content="en_US">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AAIG — Quality Engineering, Technical Rework & Global Representation">
+  <meta name="twitter:description" content="Prevent production halts with AAIG — rapid containment, resident engineers, and a 200,000 sq.ft. Wixom warehouse.">
+  
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "AA Infinite Global Alliance",
+    "alternateName": "AAIG",
+    "url": "https://www.aaig-group.com",
+    "email": "info@aaig-group.com",
+    "telephone": "+919960717177",
+    "description": "Quality engineering, technical rework, inspection, containment, and global representation services for automotive and industrial manufacturers.",
+    "address": [
+      {
+        "@type": "PostalAddress",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "postalCode": "411046",
+        "addressCountry": "IN"
+      },
+      {
+        "@type": "PostalAddress",
+        "addressLocality": "Wixom",
+        "addressRegion": "MI",
+        "addressCountry": "US"
+      }
+    ],
+    "areaServed": ["India", "United States", "Germany", "United Kingdom", "Mexico"],
+    "hasCredential": [
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "ISO 9001:2015" },
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "MMSDC Certified" }
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/company/aa-infinite-global-services"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "AAIG Wixom Warehouse",
+    "image": "",
+    "telephone": "+919960717177",
+    "email": "info@aaig-group.com",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Wixom",
+      "addressRegion": "MI",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 42.5248,
+      "longitude": -83.5374
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "08:00",
+      "closes": "18:00"
+    }
+  }
+  </script>
+
+  <!-- FAQ Schema for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What services does AAIG provide?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AAIG provides quality engineering, technical rework, containment, inspection, global representation, warehousing & logistics, and resident engineering services across India, North America, and Europe."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How quickly can AAIG respond to quality emergencies?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AAIG deploys containment teams within 48 hours for emergency quality situations, with 24/7 support across all operational time zones."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where is AAIG's warehouse located?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AAIG operates a 200,000 sq. ft. bonded warehouse in Wixom, Michigan, USA, supporting inspection, rework, sequencing, and cross-docking operations."
+        }
+      }
+    ]
+  }
+  </script>
+  
+  <!-- Favicon — Blue wave design -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%230f2b4a' width='100' height='100'/><path d='M20 50C20 50 30 35 50 35C70 35 80 50 80 50M20 65C20 65 30 50 50 50C70 50 80 65 80 65' stroke='%232563eb' stroke-width='6' stroke-linecap='round' fill='none'/></svg>">
+  
+  <!-- Google Fonts — Modern Sans-Serif Stack -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/home.css">
+  <link rel="stylesheet" href="css/additions.css">
+</head>
+<body>
+
+  <!-- Skip to content for accessibility -->
+  <a href="#home" class="skip-link">Skip to main content</a>
+
+  <!-- ==================== HEADER ==================== -->
+  <header class="header">
+    <div class="container">
+      <div class="header__inner">
+        <!-- Logo -->
+        <a href="index.html" class="logo" aria-label="AA Infinite Home">
+          <span class="logo__icon">
+            <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M5 20C5 20 10 12 20 12C30 12 35 20 35 20" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+              <path d="M5 28C5 28 10 20 20 20C30 20 35 28 35 28" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+            </svg>
+          </span>
+          <span class="logo__text">
+            <span class="logo__name">AA INFINITE</span>
+            <span class="logo__tagline">Global Alliance</span>
+          </span>
+        </a>
+        
+        <!-- Desktop Navigation -->
+        <nav class="nav" aria-label="Main navigation">
+          <a href="about.html" class="nav__link">About</a>
+          <a href="services.html" class="nav__link">Services</a>
+          <a href="warehousing.html" class="nav__link">Warehousing</a>
+          <a href="global.html" class="nav__link">Global</a>
+          <a href="case-studies.html" class="nav__link">Case Studies</a>
+          <a href="#contact" class="btn btn--primary nav__cta">Contact Us</a>
+        </nav>
+        
+        <!-- Mobile Menu Toggle -->
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu" aria-expanded="false">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+      </div>
+    </div>
+    
+    <!-- Mobile Navigation -->
+    <nav class="mobile-nav" id="mobileNav" aria-label="Mobile navigation">
+      <a href="about.html" class="mobile-nav__link">About</a>
+      <a href="services.html" class="mobile-nav__link">Services</a>
+      <a href="warehousing.html" class="mobile-nav__link">Warehousing</a>
+      <a href="global.html" class="mobile-nav__link">Global</a>
+      <a href="case-studies.html" class="mobile-nav__link">Case Studies</a>
+      <a href="#contact" class="mobile-nav__link">Contact Us</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- ==================== HERO SECTION ==================== -->
+    <section id="home" class="hero">
+      <div class="hero__bg">
+        <div class="hero__gradient"></div>
+        <div class="hero__particles" aria-hidden="true">
+          <span></span><span></span><span></span><span></span><span></span>
+        </div>
+      </div>
+      <div class="container">
+        <div class="hero__inner">
+          <div class="hero__content">
+            <div class="hero__badge">
+              <i class="fa-solid fa-shield-halved"></i>
+              <span>Trusted by Global OEMs & Tier-1 Suppliers</span>
+            </div>
+            <h1 class="hero__title">
+              Your <span class="text-gradient">Quality Shield</span> — From Line Stop to Line Start
+            </h1>
+            <p class="hero__description">
+              AAIG delivers rapid containment, precision rework, and global representation. We deploy within 48 hours to prevent production halts, reduce costs, and protect your supply chain — across India, North America, and Europe.
+            </p>
+            <div class="hero__actions">
+              <a href="#contact" class="btn btn--primary btn--lg btn--glow">
+                <i class="fa-solid fa-bolt"></i> Request Emergency Response
+              </a>
+              <a href="#contact" class="btn btn--outline-hero btn--lg">
+                <i class="fa-regular fa-calendar"></i> Book a Discovery Call
+              </a>
+            </div>
+            <div class="hero__stats-row">
+              <div class="hero-stat">
+                <div class="hero-stat__number" data-count="48">48<span class="hero-stat__unit">h</span></div>
+                <div class="hero-stat__label">Emergency Deploy</div>
+              </div>
+              <div class="hero-stat__divider"></div>
+              <div class="hero-stat">
+                <div class="hero-stat__number">200K<span class="hero-stat__unit">sq ft</span></div>
+                <div class="hero-stat__label">Wixom Warehouse</div>
+              </div>
+              <div class="hero-stat__divider"></div>
+              <div class="hero-stat">
+                <div class="hero-stat__number">3</div>
+                <div class="hero-stat__label">Continents Served</div>
+              </div>
+              <div class="hero-stat__divider"></div>
+              <div class="hero-stat">
+                <div class="hero-stat__number">25<span class="hero-stat__unit">+yr</span></div>
+                <div class="hero-stat__label">Industry Experience</div>
+              </div>
+            </div>
+          </div>
+          <div class="hero__visual">
+            <div class="hero__image-wrapper">
+              <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="AAIG global supply chain and quality engineering operations" loading="eager" width="640" height="480">
+              <div class="hero__image-overlay"></div>
+            </div>
+            <div class="hero__trust-badges">
+              <div class="trust-badge"><i class="fa-solid fa-certificate"></i> ISO 9001:2015</div>
+              <div class="trust-badge"><i class="fa-solid fa-award"></i> MMSDC Certified</div>
+              <div class="trust-badge"><i class="fa-solid fa-clock"></i> 24/7 Support</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== WAREHOUSING & LOGISTICS ==================== -->
+    <section id="warehousing" class="section section--warm">
+      <div class="container">
+        <div class="section-intro fade-in">
+          <span class="section-tag"><i class="fa-solid fa-warehouse"></i> Warehousing & Logistics</span>
+          <h2 class="section-title">200,000 sq. ft. Wixom, MI — Your North American Hub</h2>
+          <p class="section-subtitle">Bonded, climate-controlled, and strategically located to support containment, rework, sequencing, and cross-docking operations for Tier-1 suppliers and OEMs.</p>
+        </div>
+
+        <div class="feature-cards-grid stagger-children">
+          <article class="feature-card fade-in">
+            <div class="feature-card__icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="6" width="22" height="12" rx="2"/><path d="M1 10h22"/></svg>
+            </div>
+            <h3 class="feature-card__title">Bonded Warehouse</h3>
+            <p class="feature-card__desc">U.S. Customs-bonded facility for duty-deferred storage and handling of international shipments.</p>
+          </article>
+          <article class="feature-card fade-in">
+            <div class="feature-card__icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
+            <h3 class="feature-card__title">Quality Firewall</h3>
+            <p class="feature-card__desc">On-site inspection zones for containment, 100% sorting, and pre-delivery quality verification.</p>
+          </article>
+          <article class="feature-card fade-in">
+            <div class="feature-card__icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+            </div>
+            <h3 class="feature-card__title">JIT Sequencing</h3>
+            <p class="feature-card__desc">Just-in-time sequencing and cross-docking to keep production lines running without interruption.</p>
+          </article>
+          <article class="feature-card fade-in">
+            <div class="feature-card__icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
+            </div>
+            <h3 class="feature-card__title">Value-Added Services</h3>
+            <p class="feature-card__desc">Repacking, kitting, labeling, and rework services integrated directly into your supply chain flow.</p>
+          </article>
+        </div>
+
+        <div class="warehouse-metrics fade-in">
+          <div class="metric-pill"><strong>200,000</strong> sq. ft.</div>
+          <div class="metric-pill"><strong>Bonded</strong> Facility</div>
+          <div class="metric-pill"><strong>24/7</strong> Operations</div>
+          <div class="metric-pill"><strong>50+</strong> Dock Doors</div>
+        </div>
+
+        <div class="section-cta fade-in">
+          <a href="warehousing.html" class="btn btn--primary">Explore Warehousing Details</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== GLOBAL REPRESENTATION & TECHNICAL REWORK ==================== -->
+    <section id="global-rep" class="section">
+      <div class="container">
+        <div class="section-intro fade-in">
+          <span class="section-tag"><i class="fa-solid fa-earth-americas"></i> Global Representation & Technical Rework</span>
+          <h2 class="section-title">Your On-Ground Partner — Anywhere in the World</h2>
+          <p class="section-subtitle">We act as your extended quality team at customer and supplier locations, managing deviation resolution, technical rework, and OEM communication so you don't need a local office.</p>
+        </div>
+
+        <div class="split-section stagger-children">
+          <div class="split-section__cards">
+            <article class="icon-card fade-in">
+              <div class="icon-card__icon"><i class="fa-solid fa-user-tie"></i></div>
+              <div class="icon-card__content">
+                <h3>Resident Engineer / Quality Liaison</h3>
+                <p>Dedicated professionals embedded at your customer's plant, providing daily coordination and issue management.</p>
+              </div>
+            </article>
+            <article class="icon-card fade-in">
+              <div class="icon-card__icon"><i class="fa-solid fa-wrench"></i></div>
+              <div class="icon-card__content">
+                <h3>Technical Rework & Repair</h3>
+                <p>Precision rework programs with specialized tooling, traceability, and full quality documentation at our facilities.</p>
+              </div>
+            </article>
+            <article class="icon-card fade-in">
+              <div class="icon-card__icon"><i class="fa-solid fa-comments"></i></div>
+              <div class="icon-card__content">
+                <h3>OEM Direct Communication</h3>
+                <p>Real-time escalation channels and multilingual support bridging geographic and cultural gaps.</p>
+              </div>
+            </article>
+            <article class="icon-card fade-in">
+              <div class="icon-card__icon"><i class="fa-solid fa-arrows-rotate"></i></div>
+              <div class="icon-card__content">
+                <h3>Supply Chain Coordination</h3>
+                <p>End-to-end program management from deviation detection to root cause resolution and parts release.</p>
+              </div>
+            </article>
+          </div>
+          <div class="split-section__visual fade-in">
+            <img src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="AAIG global team collaboration and quality engineering" loading="lazy" width="600" height="400">
+            <div class="visual-overlay-stat">
+              <span class="visual-overlay-stat__number">3</span>
+              <span class="visual-overlay-stat__label">Continents<br>Covered</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-cta fade-in">
+          <a href="global.html" class="btn btn--outline">View Global Presence</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== QUALITY ENGINEERING & INSPECTION ==================== -->
+    <section id="quality" class="section section--ink">
+      <div class="container">
+        <div class="section-intro section-intro--light fade-in">
+          <span class="section-tag section-tag--light"><i class="fa-solid fa-microscope"></i> Quality Engineering & Inspection</span>
+          <h2 class="section-title">Containment. Inspection. Confidence.</h2>
+          <p class="section-subtitle">From rapid containment to final release — we protect production schedules with certified quality processes, on-site teams, and rigorous inspection protocols.</p>
+        </div>
+
+        <div class="quality-grid stagger-children">
+          <article class="quality-card fade-in">
+            <div class="quality-card__number">01</div>
+            <div class="quality-card__icon"><i class="fa-solid fa-shield-halved"></i></div>
+            <h3>Containment & Quality Firewalls</h3>
+            <p>Immediate isolation of suspect parts with 100% sorting and quality gates to prevent further escapes.</p>
+          </article>
+          <article class="quality-card fade-in">
+            <div class="quality-card__number">02</div>
+            <div class="quality-card__icon"><i class="fa-solid fa-magnifying-glass-chart"></i></div>
+            <h3>Pre-Delivery Inspection & Testing</h3>
+            <p>Dimensional checks, functional testing, and visual inspection against customer specifications before ship-out.</p>
+          </article>
+          <article class="quality-card fade-in">
+            <div class="quality-card__number">03</div>
+            <div class="quality-card__icon"><i class="fa-solid fa-rocket"></i></div>
+            <h3>Launch Support & Root Cause Analysis</h3>
+            <p>Embedded engineers for new program launches, PPAP support, 8D reporting, and corrective action tracking.</p>
+          </article>
+          <article class="quality-card fade-in">
+            <div class="quality-card__number">04</div>
+            <div class="quality-card__icon"><i class="fa-solid fa-clipboard-check"></i></div>
+            <h3>Supplier Quality Development</h3>
+            <p>Process audits, FMEA reviews, and capability assessments to strengthen your supplier base quality performance.</p>
+          </article>
+        </div>
+
+        <div class="quality-promise fade-in">
+          <i class="fa-solid fa-bolt"></i>
+          <div>
+            <strong>Our Response Promise:</strong> We respond within 1 business day. Emergency containment teams deploy within 48 hours — anywhere in our network.
+          </div>
+        </div>
+
+        <div class="section-cta fade-in">
+          <a href="services.html" class="btn btn--primary">Explore All Services</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== CLIENT LOGOS & LOCATIONS ==================== -->
+    <section id="clients" class="section">
+      <div class="container">
+        <div class="section-intro fade-in">
+          <span class="section-tag"><i class="fa-solid fa-handshake"></i> Trusted Partners</span>
+          <h2 class="section-title">Trusted by Leading OEMs & Tier-1 Suppliers</h2>
+          <p class="section-subtitle">We operate under NDA with global automotive leaders. Our client base includes OEMs, Tier-1 suppliers, and engineering companies across three continents.</p>
+        </div>
+
+        <!-- Logo Strip -->
+        <div class="logo-strip fade-in">
+          <div class="logo-strip__item">
+            <div class="logo-placeholder"><i class="fa-solid fa-industry"></i><span>Global OEM</span></div>
+          </div>
+          <div class="logo-strip__item">
+            <div class="logo-placeholder"><i class="fa-solid fa-car"></i><span>Tier-1 Supplier</span></div>
+          </div>
+          <div class="logo-strip__item">
+            <div class="logo-placeholder"><i class="fa-solid fa-gears"></i><span>Engineering Co.</span></div>
+          </div>
+          <div class="logo-strip__item">
+            <div class="logo-placeholder"><i class="fa-solid fa-truck"></i><span>Logistics Partner</span></div>
+          </div>
+          <div class="logo-strip__item">
+            <div class="logo-placeholder"><i class="fa-solid fa-microchip"></i><span>Tech OEM</span></div>
+          </div>
+          <div class="logo-strip__item">
+            <div class="logo-placeholder"><i class="fa-solid fa-bolt"></i><span>EV Manufacturer</span></div>
+          </div>
+        </div>
+        <p class="logo-strip__note fade-in">Client logos shown under NDA agreements. Contact us for references.</p>
+
+        <!-- Operational Locations -->
+        <div class="locations-strip fade-in">
+          <h3 class="locations-strip__title">Operational Presence</h3>
+          <div class="locations-strip__grid">
+            <div class="location-pill">
+              <i class="fa-solid fa-building"></i>
+              <div>
+                <strong>India</strong>
+                <span>HQ & Engineering Hub — Pune</span>
+              </div>
+            </div>
+            <div class="location-pill">
+              <i class="fa-solid fa-warehouse"></i>
+              <div>
+                <strong>North America</strong>
+                <span>Warehouse & Operations — Wixom, MI</span>
+              </div>
+            </div>
+            <div class="location-pill">
+              <i class="fa-solid fa-cogs"></i>
+              <div>
+                <strong>Europe</strong>
+                <span>Technical Support — Germany / UK</span>
+              </div>
+            </div>
+            <div class="location-pill">
+              <i class="fa-solid fa-handshake"></i>
+              <div>
+                <strong>Mexico</strong>
+                <span>Project-based Collaborations</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== CASE STUDIES & CERTIFICATIONS ==================== -->
+    <section id="cases" class="section section--warm">
+      <div class="container">
+        <div class="two-col-section">
+          <!-- Case Studies Column -->
+          <div class="cases-col fade-in">
+            <span class="section-tag"><i class="fa-solid fa-chart-line"></i> Proven Results</span>
+            <h2 class="section-title" style="text-align:left;">Global Execution — Delivered with Discretion</h2>
+            <p style="margin-bottom: var(--space-xl); color: var(--slate);">All programs executed under confidential agreements and ethical business standards.</p>
+
+            <div class="case-study-cards">
+              <article class="case-mini-card">
+                <div class="case-mini-card__tag">North America</div>
+                <h4>Rapid Containment — Major OEM</h4>
+                <p>Deployed containment team + resident engineer within 48 hours; 3-step rework at Wixom facility.</p>
+                <div class="case-mini-card__results">
+                  <span><i class="fa-solid fa-arrow-down"></i> 85% downtime reduction</span>
+                  <span><i class="fa-solid fa-dollar-sign"></i> 32% cost savings</span>
+                </div>
+              </article>
+              <article class="case-mini-card">
+                <div class="case-mini-card__tag">Europe</div>
+                <h4>Deviation Management — OEM Partner</h4>
+                <p>Established real-time feedback loop, on-site quality liaison, and root cause analysis program.</p>
+                <div class="case-mini-card__results">
+                  <span><i class="fa-solid fa-arrow-down"></i> 94% defect reduction</span>
+                  <span><i class="fa-solid fa-handshake"></i> Contract renewed</span>
+                </div>
+              </article>
+              <article class="case-mini-card">
+                <div class="case-mini-card__tag">Mexico</div>
+                <h4>Partner Warehouse Rework</h4>
+                <p>Coordinated on-site rework program with dedicated technicians and sequencing operations.</p>
+                <div class="case-mini-card__results">
+                  <span><i class="fa-solid fa-clock"></i> 60% faster turnaround</span>
+                  <span><i class="fa-solid fa-check-circle"></i> Zero delays</span>
+                </div>
+              </article>
+            </div>
+
+            <a href="case-studies.html" class="btn btn--outline" style="margin-top: var(--space-lg);">View All Case Studies</a>
+          </div>
+
+          <!-- Certifications Column -->
+          <div class="certs-col fade-in">
+            <span class="section-tag"><i class="fa-solid fa-certificate"></i> Certifications</span>
+            <h2 class="section-title" style="text-align:left;">Certified. Compliant. Trusted.</h2>
+            <p style="margin-bottom: var(--space-xl); color: var(--slate);">Industry certifications that demonstrate our commitment to quality, diversity, and operational excellence.</p>
+
+            <div class="cert-cards">
+              <div class="cert-card">
+                <div class="cert-card__icon"><i class="fa-solid fa-shield-halved"></i></div>
+                <div class="cert-card__content">
+                  <strong>ISO 9001:2015</strong>
+                  <span>Quality Management System</span>
+                </div>
+                <i class="fa-solid fa-circle-check cert-card__check"></i>
+              </div>
+              <div class="cert-card">
+                <div class="cert-card__icon"><i class="fa-solid fa-award"></i></div>
+                <div class="cert-card__content">
+                  <strong>MMSDC Certified</strong>
+                  <span>Michigan Minority Supplier Development Council</span>
+                </div>
+                <i class="fa-solid fa-circle-check cert-card__check"></i>
+              </div>
+              <div class="cert-card">
+                <div class="cert-card__icon"><i class="fa-solid fa-users"></i></div>
+                <div class="cert-card__content">
+                  <strong>MBDA Member</strong>
+                  <span>Minority Business Development Agency</span>
+                </div>
+                <i class="fa-solid fa-circle-check cert-card__check"></i>
+              </div>
+              <div class="cert-card cert-card--pending">
+                <div class="cert-card__icon"><i class="fa-solid fa-spinner"></i></div>
+                <div class="cert-card__content">
+                  <strong>IATF 16949</strong>
+                  <span>Automotive QMS — In Process</span>
+                </div>
+                <span class="cert-card__status">In Progress</span>
+              </div>
+            </div>
+
+            <div class="why-aaig-mini">
+              <h4>Why Choose AAIG?</h4>
+              <ul>
+                <li><i class="fa-solid fa-check"></i> 25+ years automotive & industrial experience</li>
+                <li><i class="fa-solid fa-check"></i> Multilingual teams across 3 continents</li>
+                <li><i class="fa-solid fa-check"></i> Cost-effective, India-based engineering hub</li>
+                <li><i class="fa-solid fa-check"></i> Fully bonded & compliant U.S. operations</li>
+                <li><i class="fa-solid fa-check"></i> Real-time reporting & integrated visibility</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== CONTACT / ENQUIRY ==================== -->
+    <section id="contact" class="section">
+      <div class="container">
+        <div class="contact__inner">
+          <div class="contact__info fade-in">
+            <span class="section-tag"><i class="fa-solid fa-envelope"></i> Get In Touch</span>
+            <h2>Let's Build Reliable Global Partnerships</h2>
+            <p>Tell us about your program — we respond within one business day. For urgent quality matters, reach us directly.</p>
+            
+            <div class="contact-cards">
+              <div class="contact-card">
+                <h4 class="contact-card__title"><i class="fa-solid fa-building"></i> India Office (HQ)</h4>
+                <p class="contact-card__detail">
+                  <i class="fa-solid fa-location-dot"></i>
+                  AA Infinite Global Services, Pune, Maharashtra – 411046
+                </p>
+                <p class="contact-card__detail">
+                  <i class="fa-solid fa-envelope"></i>
+                  <a href="mailto:info@aaig-group.com">info@aaig-group.com</a>
+                </p>
+                <p class="contact-card__detail">
+                  <i class="fa-solid fa-phone"></i>
+                  <a href="tel:+919960717177">+91 99607 17177</a>
+                </p>
+              </div>
+              
+              <div class="contact-card">
+                <h4 class="contact-card__title"><i class="fa-solid fa-warehouse"></i> North America</h4>
+                <p class="contact-card__detail">
+                  <i class="fa-solid fa-location-dot"></i>
+                  Greater Detroit Region, Michigan, USA
+                </p>
+                <p class="contact-card__detail">
+                  <i class="fa-solid fa-cog"></i>
+                  Warehousing, Rework & Operations
+                </p>
+              </div>
+            </div>
+            
+            <div class="contact__links">
+              <a href="https://www.aaig-group.com" target="_blank" rel="noopener noreferrer" class="contact__link"><i class="fa-solid fa-globe"></i> www.aaig-group.com</a>
+              <a href="https://www.linkedin.com/company/aa-infinite-global-services" target="_blank" rel="noopener noreferrer" class="contact__link"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+              <a href="mailto:info@aaig-group.com" class="contact__link"><i class="fa-solid fa-envelope"></i> Email</a>
+            </div>
+          </div>
+          
+          <form class="contact-form fade-in" id="contactForm" enctype="multipart/form
+                </p>
+              </div>
+            </div>
+            
+            <div class="contact__links">
+              <a href="https://www.aaig-group.com" target="_blank" rel="noopener noreferrer" class="contact__link"><i class="fa-solid fa-globe"></i> www.aaig-group.com</a>
+              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" class="contact__link"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+              <a href="mailto:info@aaig-group.com" class="contact__link"><i class="fa-solid fa-envelope"></i> Email</a>
+            </div>
+          </div>
+          
+          <form class="contact-form fade-in" id="contactForm" enctype="multipart/form-data">
+            <div class="form-row">
+              <div class="form-group">
+                <label class="form-label" for="name">Full Name *</label>
+                <input type="text" id="name" name="name" class="form-input" required aria-required="true">
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="company">Company *</label>
+                <input type="text" id="company" name="company" class="form-input" required aria-required="true">
+              </div>
+            </div>
+            
+            <div class="form-row">
+              <div class="form-group">
+                <label class="form-label" for="email">Email Address *</label>
+                <input type="email" id="email" name="email" class="form-input" required aria-required="true">
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="phone">Phone Number *</label>
+                <input type="tel" id="phone" name="phone" class="form-input" required aria-required="true">
+              </div>
+            </div>
+            
+            <div class="form-row">
+              <div class="form-group">
+                <label class="form-label" for="country">Country</label>
+                <input type="text" id="country" name="country" class="form-input" placeholder="e.g., United States">
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="city">City</label>
+                <input type="text" id="city" name="city" class="form-input" placeholder="e.g., Detroit">
+              </div>
+            </div>
+            
+            <div class="form-group">
+              <label class="form-label">Service Interest (select all that apply) *</label>
+              <div class="checkbox-group" role="group" aria-label="Service interest options">
+                <label class="checkbox-item">
+                  <input type="checkbox" name="service" value="inspection"> 
+                  <span>Inspection & Sorting</span>
+                </label>
+                <label class="checkbox-item">
+                  <input type="checkbox" name="service" value="rework"> 
+                  <span>Technical Rework</span>
+                </label>
+                <label class="checkbox-item">
+                  <input type="checkbox" name="service" value="containment"> 
+                  <span>Containment</span>
+                </label>
+                <label class="checkbox-item">
+                  <input type="checkbox" name="service" value="representation"> 
+                  <span>Global Representation</span>
+                </label>
+                <label class="checkbox-item">
+                  <input type="checkbox" name="service" value="warehousing"> 
+                  <span>Warehousing & Logistics</span>
+                </label>
+                <label class="checkbox-item">
+                  <input type="checkbox" name="service" value="launch"> 
+                  <span>Launch Support</span>
+                </label>
+                <label class="checkbox-item">
+                  <input type="checkbox" name="service" value="resident-engineer"> 
+                  <span>Resident Engineer</span>
+                </label>
+                <label class="checkbox-item">
+                  <input type="checkbox" name="service" value="other"> 
+                  <span>Other</span>
+                </label>
+              </div>
+            </div>
+            
+            <div class="form-group">
+              <label class="form-label" for="urgency">Urgency</label>
+              <select id="urgency" name="urgency" class="form-select">
+                <option value="">Select urgency level...</option>
+                <option value="emergency">🔴 Emergency (deploy within 48 hours)</option>
+                <option value="7days">🟡 Within 7 days</option>
+                <option value="standard">🟢 Standard (planning phase)</option>
+              </select>
+            </div>
+            
+            <div class="form-group">
+              <label class="form-label" for="fileUpload">Upload Images / Files (optional)</label>
+              <div class="file-upload-area" id="fileUploadArea">
+                <input type="file" id="fileUpload" name="files" class="file-input" multiple accept="image/*,.pdf,.doc,.docx,.xls,.xlsx" aria-describedby="fileUploadHelp">
+                <div class="file-upload-label">
+                  <i class="fa-solid fa-cloud-arrow-up"></i>
+                  <span>Drag & drop files here or <strong>browse</strong></span>
+                  <small id="fileUploadHelp">Accept: Images, PDF, DOC, XLS (max 10MB each)</small>
+                </div>
+              </div>
+            </div>
+            
+            <div class="form-group">
+              <label class="form-label" for="message">Message</label>
+              <textarea id="message" name="message" class="form-textarea" rows="4" placeholder="Tell us about your requirements, part numbers, volumes, or describe the quality issue..."></textarea>
+            </div>
+            
+            <div class="form-group form-consent">
+              <label class="checkbox-item consent-checkbox">
+                <input type="checkbox" name="consent" id="consent" required aria-required="true">
+                <span>I consent to AAIG contacting me regarding this inquiry and agree to the <a href="privacy-policy.html" target="_blank" rel="noopener">Privacy Policy</a>. *</span>
+              </label>
+            </div>
+            
+            <button type="submit" class="btn btn--primary btn--full">
+              <i class="fa-solid fa-paper-plane"></i>
+              Send Inquiry
+            </button>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ==================== FOOTER ==================== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__inner">
+        <div class="footer__brand">
+          <a href="index.html" class="logo">
+            <span class="logo__icon">
+              <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M5 20C5 20 10 12 20 12C30 12 35 20 35 20" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+                <path d="M5 28C5 28 10 20 20 20C30 20 35 28 35 28" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+              </svg>
+            </span>
+            <span class="logo__text">
+              <span class="logo__name" style="color: white;">AA INFINITE</span>
+              <span class="logo__tagline" style="color: rgba(255,255,255,0.6);">Global Alliance</span>
+            </span>
+          </a>
+          <p>Your trusted global partner for quality services and supply chain solutions. Together, we rise higher and achieve more.</p>
+        </div>
+        
+        <div class="footer__col">
+          <h4 class="footer__title">Services</h4>
+          <nav class="footer__links">
+            <a href="warehousing.html" class="footer__link">Warehousing & Logistics</a>
+            <a href="services.html#representation" class="footer__link">Global Representation</a>
+            <a href="services.html#supply-chain" class="footer__link">Supply Chain</a>
+            <a href="services.html#quality" class="footer__link">Quality Engineering</a>
+          </nav>
+        </div>
+        
+        <div class="footer__col">
+          <h4 class="footer__title">Company</h4>
+          <nav class="footer__links">
+            <a href="about.html" class="footer__link">About Us</a>
+            <a href="global.html" class="footer__link">Locations</a>
+            <a href="case-studies.html" class="footer__link">Case Studies</a>
+            <a href="#contact" class="footer__link">Contact</a>
+          </nav>
+        </div>
+        
+        <div class="footer__col">
+          <h4 class="footer__title">Legal</h4>
+          <nav class="footer__links">
+            <a href="privacy-policy.html" class="footer__link">Privacy Policy</a>
+            <a href="privacy-policy.html#cookies" class="footer__link">Cookie Policy</a>
+            <a href="privacy-policy.html#terms" class="footer__link">Terms of Service</a>
+          </nav>
+        </div>
+      </div>
+      
+      <div class="footer__bottom">
+        <p>© 2026 AA Infinite Global Services. All rights reserved.</p>
+        <div class="footer__social">
+          <a href="https://www.linkedin.com/company/aa-infinite-global-services" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+          <a href="https://wa.me/qr/UAIEHYSWJOCOJ1" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+          <a href="mailto:info@aaig-group.com" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="script.js"></script>
+  
+  <!-- Sticky Mobile CTA -->
+  <div class="mobile-sticky-cta" id="mobileCta">
+    <div class="mobile-sticky-cta__inner">
+      <a href="tel:+919960717177" class="btn btn--call"><i class="fa-solid fa-phone"></i> Call Now</a>
+      <a href="#contact" class="btn btn--primary"><i class="fa-solid fa-bolt"></i> Emergency Response</a>
+    </div>
+  </div>
+  
+  <!-- GA4 Analytics (replace G-XXXXXXXXXX with your Measurement ID) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+    
+    // Track key conversion events
+    document.addEventListener('DOMContentLoaded', function() {
+      // Form submission
+      var form = document.getElementById('contactForm');
+      if (form) {
+        form.addEventListener('submit', function() {
+          gtag('event', 'form_submit', { event_category: 'engagement', event_label: 'contact_form' });
+        });
+      }
+      
+      // Emergency CTA clicks
+      document.querySelectorAll('.btn--emergency').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          gtag('event', 'emergency_form_submit', { event_category: 'engagement', event_label: 'emergency_cta' });
+        });
+      });
+      
+      // Phone call clicks
+      document.querySelectorAll('a[href^="tel:"]').forEach(function(link) {
+        link.addEventListener('click', function() {
+          gtag('event', 'call_click', { event_category: 'engagement', event_label: link.href });
+        });
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,408 @@
+/* ============================================
+   Additional Styles for Enhanced Pages
+   ============================================ */
+
+/* ---------- Capability Sections ---------- */
+.capability-section {
+  background: var(--paper-warm);
+  padding: var(--space-xl);
+  border-radius: var(--radius-lg);
+  border-left: 4px solid var(--copper);
+}
+
+.capability-section h3 {
+  font-family: var(--font-ui);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: var(--space-lg);
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.capability-section h3 i {
+  color: var(--copper);
+  font-size: 1.5rem;
+}
+
+.capability-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.capability-list li {
+  display: flex;
+  align-items: start;
+  gap: var(--space-md);
+  font-size: 0.9375rem;
+  color: var(--slate);
+  line-height: 1.6;
+}
+
+.capability-list li i {
+  color: var(--copper);
+  margin-top: 0.25rem;
+  flex-shrink: 0;
+}
+
+/* ---------- Brands Grid ---------- */
+.brands-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: var(--space-md);
+  margin: var(--space-2xl) 0;
+}
+
+.brand-item {
+  background: white;
+  padding: var(--space-lg);
+  border-radius: var(--radius-md);
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--slate);
+  box-shadow: var(--shadow-soft);
+  transition: all 0.3s ease;
+}
+
+.brand-item:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-medium);
+  color: var(--copper);
+}
+
+.tagline-banner {
+  margin-top: var(--space-2xl);
+  padding: var(--space-xl);
+  background: linear-gradient(135deg, var(--copper-glow) 0%, transparent 100%);
+  border-radius: var(--radius-lg);
+  text-align: center;
+}
+
+.tagline-banner p {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--ink);
+  font-style: italic;
+  margin: 0;
+}
+
+.tagline-banner i {
+  color: var(--copper);
+  font-size: 1.125rem;
+  margin: 0 var(--space-sm);
+}
+
+/* ---------- Dark Card Number (alias for dark-card__num) ---------- */
+/* 3pl.html uses __number, index.html uses __num — both should look the same */
+.dark-card__number {
+  position: absolute;
+  top: var(--space-lg);
+  right: var(--space-lg);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--primary-blue-light);
+  opacity: 0.5;
+}
+
+/* ---------- Footer Contact Block ---------- */
+.footer__contact-block {
+  margin-top: var(--space-lg);
+}
+
+.footer__contact-block p {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  color: var(--paper-dark);
+  font-size: 0.875rem;
+  line-height: 1.5;
+  margin-bottom: var(--space-sm);
+  max-width: none;
+}
+
+.footer__contact-block p:last-child {
+  margin-bottom: 0;
+}
+
+.footer__contact-block p i {
+  color: var(--primary-blue-light);
+  width: 16px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.footer__contact-block p a {
+  color: var(--paper-dark);
+  text-decoration: none;
+  transition: color .2s;
+}
+
+.footer__contact-block p a:hover {
+  color: var(--paper);
+}
+
+/* ---------- Mission Section (homepage) ---------- */
+.mission-quote-block {
+  max-width: 860px;
+  margin: 0 auto var(--space-xl);
+  padding: var(--space-2xl);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-left: 4px solid var(--primary-blue);
+  border-radius: 0 var(--radius-xl) var(--radius-xl) 0;
+}
+
+.mission-quote-block p {
+  font-size: 1.3rem;
+  line-height: 1.75;
+  color: var(--paper-dark);
+  max-width: none;
+  margin: 0;
+}
+
+.mission-quote-block strong {
+  color: var(--paper);
+}
+
+.mission-founder-cite {
+  display: block;
+  text-align: center;
+  margin-bottom: var(--space-3xl);
+  font-style: normal;
+}
+
+.mission-founder-quote {
+  display: block;
+  font-size: 1.0625rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.5);
+  line-height: 1.7;
+  max-width: 680px;
+  margin: 0 auto var(--space-md);
+}
+
+.mission-founder-name {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--primary-blue-light);
+}
+
+.mission-pillars {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-lg);
+  flex-wrap: wrap;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding-top: var(--space-2xl);
+}
+
+.mission-pillar {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-family: var(--font-ui);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--paper-dark);
+  padding: var(--space-md) var(--space-lg);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-lg);
+  transition: all .25s var(--ease-out);
+}
+
+.mission-pillar:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: var(--primary-blue);
+  color: var(--paper);
+  transform: translateY(-3px);
+}
+
+.mission-pillar i {
+  color: var(--primary-blue-light);
+  font-size: 1.125rem;
+  flex-shrink: 0;
+}
+
+/* ---------- Outline Light Button (for dark backgrounds) ---------- */
+.btn--outline-light {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+  background: transparent;
+  color: var(--paper);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  padding: 0.875rem 1.75rem;
+  border-radius: var(--radius-full);
+  font-family: var(--font-ui);
+  font-size: 0.9375rem;
+  font-weight: 500;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all .3s var(--ease-out);
+}
+
+.btn--outline-light:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.6);
+  color: var(--paper);
+}
+
+.btn--outline-light.btn--lg {
+  padding: 1rem 2.25rem;
+  font-size: 1rem;
+}
+
+/* ---------- CTA Block Actions (shared flex layout) ---------- */
+.cta-block__actions {
+  display: flex;
+  gap: var(--space-lg);
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: var(--space-xl);
+}
+
+/* ---------- Role Cards ---------- */
+.role-card {
+  background: white;
+  padding: var(--space-xl);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.role-card:hover {
+  transform: translateY(-8px);
+  box-shadow: var(--shadow-medium);
+}
+
+.role-card__icon {
+  width: 64px;
+  height: 64px;
+  background: var(--copper-glow);
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-lg);
+  transition: all 0.3s ease;
+}
+
+.role-card__icon i {
+  font-size: 1.75rem;
+  color: var(--copper);
+}
+
+.role-card:hover .role-card__icon {
+  background: var(--copper);
+  transform: scale(1.1);
+}
+
+.role-card:hover .role-card__icon i {
+  color: white;
+}
+
+.role-card h4 {
+  font-family: var(--font-ui);
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: var(--space-sm);
+}
+
+.role-card p {
+  font-size: 0.9375rem;
+  color: var(--slate);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ---------- Testimonial Cards ---------- */
+.testimonial-card {
+  background: white;
+  padding: var(--space-xl);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-medium);
+}
+
+.testimonial-card__quote {
+  position: absolute;
+  top: var(--space-lg);
+  right: var(--space-lg);
+  font-size: 2rem;
+  color: var(--copper-glow);
+  opacity: 0.5;
+}
+
+.testimonial-card p {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--slate);
+  margin-bottom: var(--space-lg);
+  font-style: italic;
+}
+
+.testimonial-card__author {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--paper-dark);
+}
+
+.testimonial-card__author strong {
+  font-family: var(--font-ui);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.testimonial-card__author span {
+  font-family: var(--font-ui);
+  font-size: 0.8125rem;
+  color: var(--slate-muted);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 768px) {
+  .brands-grid {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: var(--space-sm);
+  }
+  
+  .capability-section {
+    padding: var(--space-lg);
+  }
+  
+  .tagline-banner p {
+    font-size: 1.125rem;
+  }
+  
+  .role-card {
+    padding: var(--space-lg);
+  }
+  
+  .testimonial-card {
+    padding: var(--space-lg);
+  }
+}

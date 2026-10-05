@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /Documentation/
+
+Sitemap: https://www.aaig-group.com/sitemap.xml

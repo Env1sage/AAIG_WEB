@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Firebase Deploy",
+			"type": "shell",
+			"command": "cd /Users/gauridumbare/Downloads/AAIG_Website/AAIG_Website && firebase deploy --only hosting",
+			"problemMatcher": []
+		}
+	]
+}
